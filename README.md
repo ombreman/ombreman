@@ -1,5 +1,6 @@
 ## 🇬🇧 Changgil Jeong 🇰🇷 정창길</br>
 #### 🔗 LinkedIn: https://www.linkedin.com/in/changgil-jeong-b30143172/</br>
+#### 📚 TIL https://velog.io/@ombreman</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ombreman&theme=react&hide=prs&count_private=true&show_icons=true&)](https://github.com/ombreman/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ombreman&layout=compact&hide=Shell,Batchifile,PowerShell&langs_count=6&theme=react)](https://github.com/ombreman/github-readme-stats)
 <br><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>　
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>　
