@@ -12,4 +12,3 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ombreman21@gmail.com)](mailto:ombreman21@gmail.com)
-[![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat&logo=Bloglovin&link=https://velog.io/@ombreman)](https://velog.io/@ombreman)　
