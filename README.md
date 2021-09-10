@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=000000&size=40&vCenter=true&width=800&height=100&lines=Hi+there!+I'm+Gil;I'm+a+web+developer+in+the+UK;Welcome+to+my+github;Hope+you+enjoy+it+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=000000&size=30&vCenter=true&width=800&height=100&lines=Hi+there!+I'm+Gil;I'm+a+web+developer+in+the+UK;Welcome+to+my+github;Hope+you+enjoy+it+!)](https://git.io/typing-svg)
 ## 🇬🇧 Changgil Jeong 🇰🇷 정창길</br>
 #### 🔗 LinkedIn: https://www.linkedin.com/in/changgil-jeong-b30143172/</br>
 #### 📚 Daily Log https://velog.io/@ombreman</br>
