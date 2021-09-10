@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=000000&size=30&vCenter=true&width=800&height=100&lines=Hi+there!+I'm+Gil;I'm+a+web+developer+in+the+UK;Welcome+to+my+github;Hope+you+enjoy+it+!)](https://git.io/typing-svg)
-## 🇬🇧 Changgil Jeong 🇰🇷 정창길</br>
+## 🇬🇧 Changgil Jeong | 🇰🇷 정창길</br>
 #### 🔗 LinkedIn: https://www.linkedin.com/in/changgil-jeong-b30143172/</br>
 #### 📚 Daily Log https://velog.io/@ombreman</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ombreman&theme=react&hide=prs&count_private=true&show_icons=true&)](https://github.com/ombreman/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ombreman&layout=compact&hide=Shell,Batchifile,PowerShell&langs_count=6&theme=react)](https://github.com/ombreman/github-readme-stats)
