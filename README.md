@@ -1,4 +1,4 @@
-# Hi, I'm Gil 👋🏻
+# Hi, I'm Gil 👋🏻 A Web Developer
 ## 🇬🇧 Changgil Jeong | 🇰🇷 정창길</br>
 #### 🔗 LinkedIn: https://www.linkedin.com/in/changgil-jeong-b30143172/</br>
 #### 📚 Daily Log https://velog.io/@ombreman</br>
