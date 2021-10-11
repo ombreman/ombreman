@@ -11,7 +11,7 @@
 ✔ Main language is JavaScript <br>
 ✔ Speak English and Korean fluently <br>
 ✔ Obsessed with clean code <br>
-💻 Currently learning React and Redux <br>
+🚨 Currently learning React and Redux <br>
 </h3>
 
 
