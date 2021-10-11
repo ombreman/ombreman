@@ -2,19 +2,17 @@
 
 ---
 ### 🇬🇧 Changgil Jeong | 🇰🇷 정창길
-
+### 📚 Daily Logs https://velog.io/@ombreman
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Linkedin: changgiljeong](https://img.shields.io/badge/-ChanggilJeong-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changgil-jeong-b30143172/)
 
-### 📚 Daily Logs https://velog.io/@ombreman
-
 ---
-<div align="center">
+<h3 align="center">
 ✔ Main language is JavaScript <br>
 ✔ Speak English and Korean fluently <br>
 ✔ Obsessed with clean code <br>
 💻 Currently learning React and Redux <br>
-</div>
+</h3>
 
 
 ---
