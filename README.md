@@ -14,7 +14,7 @@
 ✔ Speak English and Korean fluently <br>
 ✔ Obsessed with clean code <br>
 ✅ Currently learning React.js <br>
-😁 Having fun with Swift <br>
+😁 Having fun with Python <br>
 </p>
 
 
