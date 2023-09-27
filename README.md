@@ -2,7 +2,6 @@
 
 <div align="center">
 <h3> 🇬🇧 Changgil Jeong (Call me Gil) | 🇰🇷 정창길</h3>
-<h3> 📚 My Dev Journey && Logs in Korean  <a href="https://velog.io/@ombreman"><img src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp</h3>
 
 <a href="mailto:ombreman21@gmail.com">
     <img src="https://img.shields.io/badge/ombreman21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ombreman21@gmail.com"/></a> <a href="https://www.linkedin.com/in/changgil-jeong-b30143172/"><img src="https://img.shields.io/badge/-Changgil_Jeong-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changgil-jeong-b30143172/"/></a>
